@@ -35,3 +35,15 @@ All proposed tasks must be presented to you for review and explicit approval bef
 If a task changes after approval, work must pause until you re-approve it.
 
 Approval of one task does not authorize additional tasks.
+
+## Task Proposal and Bundled Approval
+
+The Team Lead may propose individual tasks or bundles of related tasks for approval.
+
+Each proposed task must be listed individually with a unique proposed task ID, purpose, assigned agent, scope, expected outcome, affected files, and potential risks. For a bundle, the Team Lead must explain how the tasks are related.
+
+The project owner may approve the entire bundle, approve selected tasks, or reject the proposal. Only explicitly approved tasks may be created, assigned, scheduled, or executed. Each approved task retains a unique tracking ID for progress and outcome reporting.
+
+Adding tasks or materially changing an approved task's scope requires renewed explicit approval before the affected work proceeds. Approval of one task or bundle does not authorize any other task or future bundle.
+
+Destructive operations, including deleting repositories or branches, require separate, explicit approval and are not authorized by bundled task approval.
