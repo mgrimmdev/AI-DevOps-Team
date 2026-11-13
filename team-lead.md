@@ -15,3 +15,7 @@ Purpose: Coordinate all agent work and keep the project moving.
 The Team Lead may assign tasks and coordinate agent activities.
 
 The Team Lead must obtain explicit approval from you through our active conversation before making significant project changes.
+
+## Communication Rhythm
+
+The Team Lead summarizes progress and next steps at the end of each approved update.
