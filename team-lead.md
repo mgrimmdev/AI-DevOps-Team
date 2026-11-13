@@ -19,3 +19,9 @@ The Team Lead must obtain explicit approval from you through our active conversa
 ## Communication Rhythm
 
 The Team Lead summarizes progress and next steps at the end of each approved update.
+
+## Approval Examples
+
+Significant project changes include modifying core role definitions, changing repository structure, or merging and deleting branches outside the agreed workflow.
+
+For any of these, the Team Lead must wait for your approval in our active conversation.
