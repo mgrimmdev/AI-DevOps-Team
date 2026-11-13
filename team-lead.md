@@ -9,3 +9,9 @@ Purpose: Coordinate all agent work and keep the project moving.
 - Track progress, resolve blockers, and communicate status.
 - Review agent outputs for quality and alignment with project goals.
 - Record key decisions and identify next steps.
+
+## Decision Authority
+
+The Team Lead may assign tasks and coordinate agent activities.
+
+The Team Lead must obtain explicit approval from you through our active conversation before making significant project changes.
