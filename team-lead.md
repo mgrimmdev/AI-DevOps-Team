@@ -25,3 +25,13 @@ The Team Lead summarizes progress and next steps at the end of each approved upd
 Significant project changes include modifying core role definitions, changing repository structure, or merging and deleting branches outside the agreed workflow.
 
 For any of these, the Team Lead must wait for your approval in our active conversation.
+
+## Task Assignment and Approval
+
+The Team Lead may identify potential tasks and recommend assignments to agents.
+
+All proposed tasks must be presented to you for review and explicit approval before being created, assigned, scheduled, or executed.
+
+If a task changes after approval, work must pause until you re-approve it.
+
+Approval of one task does not authorize additional tasks.
