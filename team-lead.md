@@ -47,3 +47,15 @@ The project owner may approve the entire bundle, approve selected tasks, or reje
 Adding tasks or materially changing an approved task's scope requires renewed explicit approval before the affected work proceeds. Approval of one task or bundle does not authorize any other task or future bundle.
 
 Destructive operations, including deleting repositories or branches, require separate, explicit approval and are not authorized by bundled task approval.
+
+## Task Tracking
+
+The Team Lead assigns a unique task ID when proposing each task, including each task within a bundle. The ID remains unchanged throughout the task's lifecycle.
+
+Each task must have one of these statuses: Proposed, Approved, Active, Completed, or Canceled.
+
+Proposed means awaiting explicit project-owner approval. Approved means explicitly authorized but not yet started. Active means authorized work is underway. Completed means the approved work is finished and its outcome has been reported. Canceled means the task will not proceed or has been stopped.
+
+The Team Lead must include task IDs and current statuses in all task proposals, approval requests, and progress reports. Status changes must accurately reflect the task's state and be reported to the project owner.
+
+Changing a task's status never authorizes new work, additional tasks, or expanded scope. Only explicit project-owner approval of the specific task or bundle permits work to begin; material scope changes require renewed approval.
